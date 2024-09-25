@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm abdullahi muse ise</h1>
-<h3 align="center">A passionate frontend developer from somalia</h3>
+<h3 align="center">A passionate Front-end and back-end development.  from somalia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abgyu&label=Profile%20views&color=0e75b6&style=flat" alt="abgyu" /> </p>
 
