@@ -1,4 +1,4 @@
-![logo](Blue Purple Modern Animated Computer Science Presentation (1).png)
+![logo](https://github.com/Abgyu/Abgyu/blob/main/Blue%20Purple%20Modern%20Animated%20Computer%20Science%20Presentation%20(1).png)
 <h1 align="center">Hi 👋, I'm abdullahi muse ise</h1>
 <h3 align="center">A passionate Front-end and back-end development.  from somalia</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
