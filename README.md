@@ -1,4 +1,3 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm abdullahi muse ise</h1>
 <h3 align="center">A passionate Front-end and back-end development.  from somalia</h3>
