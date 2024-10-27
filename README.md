@@ -19,9 +19,7 @@
 
 - 📫 How to reach me **abdallahise877@gmail.com**
 
-- 📄 Know about my experiences [https://www.tiktok.com/@motivation18us?_t=8pcAbYctjyY&_r=1](https://www.tiktok.com/@motivation18us?_t=8pcAbYctjyY&_r=1)
-|<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codemitrayt&theme=tokyonight" />| <a href="https://github.com/codemitrayt/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemitrayt&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+
 
 
 |<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codemitrayt&theme=github_dark" />|<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codemitrayt&theme=github_dark" /> |
