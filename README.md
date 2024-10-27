@@ -20,11 +20,15 @@
 - 📫 How to reach me **abdallahise877@gmail.com**
 
 - 📄 Know about my experiences [https://www.tiktok.com/@motivation18us?_t=8pcAbYctjyY&_r=1](https://www.tiktok.com/@motivation18us?_t=8pcAbYctjyY&_r=1)
-- |<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codemitrayt&theme=tokyonight" />| <a href="https://github.com/abdullahimuse/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdaullahimuse&layout=compact&theme=buefy&hide_border=true" /></a> |
+- |<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codemitrayt&theme=tokyonight" />| <a href="https://github.com/Abgyu
+/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abgyu
+&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
-|<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdaullahimuse&theme=github_dark" />|<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdullahimuset&theme=github_dark" /> |
+|<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abgyu
+&theme=github_dark" />|<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abgyu
+t&theme=github_dark" /> |
 | ------------- | ------------- |
 
 - ⚡ Fun fact **i think I'm funny**
