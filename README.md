@@ -22,7 +22,9 @@
 
 
 
-|<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codemitrayt&theme=github_dark" />|<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codemitrayt&theme=github_dark" /> |
+|<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abgyu
+&theme=github_dark" />|<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abgyu
+&theme=github_dark" /> |
 | ------------- | ------------- |
 
 - ⚡ Fun fact **i think I'm funny**
